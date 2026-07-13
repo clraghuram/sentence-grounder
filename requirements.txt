@@ -1,0 +1,8 @@
+whoosh>=2.7.4
+pdfplumber>=0.11
+python-docx>=1.0
+python-pptx>=0.6
+rich>=13.0
+click>=8.0
+pypdf>=3.0  # fallback / optional
+openpyxl>=3.0  # for xlsx support, optional
